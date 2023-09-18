@@ -12,8 +12,8 @@
     <MinVerTagPrefix>v</MinVerTagPrefix>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="MinVer" Version="4.2.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.CodeAnalysis" Version="4.4.0" PrivateAssets="All" />
+    <PackageReference Include="MinVer" Version="4.3.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.CodeAnalysis" Version="4.8.0-1.final" PrivateAssets="All" />
   </ItemGroup>
   <ItemGroup>
     <AssemblyAttribute Include="CLSCompliantAttribute">
